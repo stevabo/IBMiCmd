@@ -92,7 +92,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(448, 60);
             this.label4.TabIndex = 7;
-            this.label4.Text = "IBMiCmd needs a path on the remote server corresponding to \r\nyour deveopment envi" +
+            this.label4.Text = "IBMiCmd needs a path on the remote server corresponding to \r\nyour development envi" +
     "ronment in order to retrieve the correct \r\ninformation used for tools like auto " +
     "completion.";
             // 
